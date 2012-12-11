@@ -1,0 +1,7 @@
+C:\Users\Matt\Documents\Visual Studio 2010\Projects\PaymentExpress\PayPal\bin\Release\PayPal.dll
+C:\Users\Matt\Documents\Visual Studio 2010\Projects\PaymentExpress\PayPal\bin\Release\PayPal.pdb
+C:\Users\Matt\Documents\Visual Studio 2010\Projects\PaymentExpress\PayPal\bin\Release\Utilities.dll
+C:\Users\Matt\Documents\Visual Studio 2010\Projects\PaymentExpress\PayPal\bin\Release\Utilities.pdb
+C:\Users\Matt\Documents\Visual Studio 2010\Projects\PaymentExpress\PayPal\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Matt\Documents\Visual Studio 2010\Projects\PaymentExpress\PayPal\obj\Release\PayPal.dll
+C:\Users\Matt\Documents\Visual Studio 2010\Projects\PaymentExpress\PayPal\obj\Release\PayPal.pdb

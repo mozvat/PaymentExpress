@@ -1,0 +1,7 @@
+C:\Users\Matt\Documents\Visual Studio 2010\Projects\PaymentExpress\PayPal\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Matt\Documents\Visual Studio 2010\Projects\PaymentExpress\PayPal\bin\Debug\PayPal.dll
+C:\Users\Matt\Documents\Visual Studio 2010\Projects\PaymentExpress\PayPal\bin\Debug\PayPal.pdb
+C:\Users\Matt\Documents\Visual Studio 2010\Projects\PaymentExpress\PayPal\bin\Debug\Utilities.dll
+C:\Users\Matt\Documents\Visual Studio 2010\Projects\PaymentExpress\PayPal\bin\Debug\Utilities.pdb
+C:\Users\Matt\Documents\Visual Studio 2010\Projects\PaymentExpress\PayPal\obj\Debug\PayPal.dll
+C:\Users\Matt\Documents\Visual Studio 2010\Projects\PaymentExpress\PayPal\obj\Debug\PayPal.pdb

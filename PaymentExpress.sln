@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "PaymentExpress", "..\..\WebSites\PaymentExpress\", "{EABC5916-C160-42B3-A234-BBBACDB948A9}"
+	ProjectSection(WebsiteProperties) = preProject
+		SccProjectName = "Svn"
+		SccAuxPath = "Svn"
+		SccLocalPath = "Svn"
+		SccProvider = "SubversionScc"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		ProjectReferences = "{9C5FBF2F-6110-4D70-9376-BAC652E53283}|PayPal.dll;{EF712330-671D-400F-97ED-148C4DBC4F08}|Utilities.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/PaymentExpress"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\WebSites\PaymentExpress\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\PaymentExpress\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/PaymentExpress"
+		Release.AspNetCompiler.PhysicalPath = "..\..\WebSites\PaymentExpress\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\PaymentExpress\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "2058"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayPal", "PayPal\PayPal.csproj", "{9C5FBF2F-6110-4D70-9376-BAC652E53283}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utilities", "Utilities\Utilities.csproj", "{EF712330-671D-400F-97ED-148C4DBC4F08}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EABC5916-C160-42B3-A234-BBBACDB948A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EABC5916-C160-42B3-A234-BBBACDB948A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EABC5916-C160-42B3-A234-BBBACDB948A9}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{EABC5916-C160-42B3-A234-BBBACDB948A9}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{9C5FBF2F-6110-4D70-9376-BAC652E53283}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C5FBF2F-6110-4D70-9376-BAC652E53283}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C5FBF2F-6110-4D70-9376-BAC652E53283}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C5FBF2F-6110-4D70-9376-BAC652E53283}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF712330-671D-400F-97ED-148C4DBC4F08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF712330-671D-400F-97ED-148C4DBC4F08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF712330-671D-400F-97ED-148C4DBC4F08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF712330-671D-400F-97ED-148C4DBC4F08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

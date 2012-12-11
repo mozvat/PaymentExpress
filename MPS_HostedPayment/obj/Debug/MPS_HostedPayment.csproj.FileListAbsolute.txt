@@ -1,0 +1,6 @@
+C:\Users\Matt\Documents\Visual Studio 2010\Projects\PaymentExpress\MPS_HostedPayment\bin\Debug\MPS_HostedPayment.dll.config
+C:\Users\Matt\Documents\Visual Studio 2010\Projects\PaymentExpress\MPS_HostedPayment\bin\Debug\MPS_HostedPayment.dll
+C:\Users\Matt\Documents\Visual Studio 2010\Projects\PaymentExpress\MPS_HostedPayment\bin\Debug\MPS_HostedPayment.pdb
+C:\Users\Matt\Documents\Visual Studio 2010\Projects\PaymentExpress\MPS_HostedPayment\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Matt\Documents\Visual Studio 2010\Projects\PaymentExpress\MPS_HostedPayment\obj\Debug\MPS_HostedPayment.dll
+C:\Users\Matt\Documents\Visual Studio 2010\Projects\PaymentExpress\MPS_HostedPayment\obj\Debug\MPS_HostedPayment.pdb
